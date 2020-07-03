@@ -1,3 +1,5 @@
 *.docx
 readme.txt
 *.mp3
+.idea/**
+.class
